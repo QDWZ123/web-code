@@ -8,5 +8,6 @@ public class TestGit {
 		System.out.println("four modify");
 		System.out.println("five modify");
 		System.out.println("six modify");
+		System.out.println("seven modify");
 	}
 }
