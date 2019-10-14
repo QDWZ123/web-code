@@ -11,5 +11,6 @@ public class TestGit {
 		System.out.println("seven modify");
 		System.out.println("eight modify");
 		System.out.println("nine modify");
+		System.out.println("ten modify");
 	}
 }
